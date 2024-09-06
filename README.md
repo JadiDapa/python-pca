@@ -10,8 +10,8 @@ Principal Component Analysis (PCA) is a statistical technique used for dimension
 
 The Banana Quality dataset includes the following 8 features:
 
-1. **Size** (RGB values)
-2. **Weight** (diameter, length)
+1. **Size**
+2. **Weight**
 3. **Sweetness**
 4. **Softness**
 5. **Harvest Time**
