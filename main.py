@@ -56,8 +56,8 @@ reduced_data = np.dot(zero_mean_data, reduced_eigenvectors)
 # Visualisasi hasil data yang sudah di reduksi
 plt.scatter(reduced_data[:, 0], reduced_data[:, 1])
 plt.title('Hasil Reduksi Dimensi dengan PCA')
-plt.xlabel('Komponen Utama 1')
-plt.ylabel('Komponen Utama 2')
+plt.xlabel('Feature 1')
+plt.ylabel('Feature 2')
 plt.show()
 
 # Mengubah Kembali Menjadi DataSet

@@ -49,8 +49,8 @@ The program follows these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pca-banana-quality.git
-   cd pca-banana-quality
+   git clone https://github.com/JadiDapa/python-pca.git
+   cd python-pca
    ```
 2. Install the required Python packages:
    ```bash
